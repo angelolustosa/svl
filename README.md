@@ -1,9 +1,6 @@
 # svl
 Sistema de venda de Livros com react e boostrap
 
-# svl
-Sistema de venda de Livros com react e boostrap
-
 # Git
 
  1 - Criar o repositorio no GitHub: https://github.com/[seu_usuario]?tab=repositories
