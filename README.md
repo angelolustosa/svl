@@ -1,57 +1,70 @@
-# svl
-Sistema de venda de Livros com react e boostrap
+# Getting Started with Create React App
 
-# Git
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- 1 - Criar o repositorio no GitHub: https://github.com/[seu_usuario]?tab=repositories
- 
- ![image](https://user-images.githubusercontent.com/15823158/182279844-124e3b28-d497-4298-92a7-1e46269fdb78.png)
- 
- 2 - Clonar o projeto para a pasta desejada no seu computador:
- 
- ![image](https://user-images.githubusercontent.com/15823158/182280502-386e53b2-a98a-4b09-8267-ecac007978bd.png)
+## Available Scripts
 
-3 - Comandos git:
+In the project directory, you can run:
 
- 3.1. Ir par a pasta onde o projeto será importado:
- 
- ```cd /c/GIT/```
- 
- 3.2. Clonar o projeto:
- 
- ```git glone https://github.com/angelolustosa/svl.git```
- 
-3.3. Criar o projeto usando o create-react-app
+### `npm start`
 
-```npx create-react-app [nome_projeto] ```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-3.3. Ir para a pasta do projeto:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-```cd [nome_projeto]```
+### `npm test`
 
-3.4. Iniciar a aplicação: [http://localhost:3000](http://localhost:3000)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```npm start```
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 4. Ramificações
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-4.1. Criar nova branch
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```git checkout -b [nome_branch]```
+### `npm run eject`
 
-4.2. Voltar para a branch a que será feito o merge
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```git checkout [nome_branch]``` 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-4.3. Mergear a branch desejada
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```git merge [nome_branch]``` 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-4.4. Mergear a branch desejada
+## Learn More
 
-```git merge [nome_branch]``` 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-5.4. Mergear a branch desejada
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```git push --set-upstream origin [nome_branch]``` 
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
